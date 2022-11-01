@@ -11,7 +11,3 @@ In case you are a complete beginner to Python, Machine Learning and Deep Learnin
 In case you are familiar with all those concepts, feel free to start from the first section i.e., Section 1 - Introduction to NLP and Regex till Section 11 - Advanced Semantic Processing Part-2 and skip the rest sections that are marked with ‘Pre-req’.
 
 All the best! 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838980481">https://packt.link/free-ebook/9781838980481 </a> </p>
